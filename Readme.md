@@ -61,8 +61,6 @@ This report presents an analysis of a sample phishing email . The objective is t
 
 ## 5. Detailed Findings
 
-Based on the WHOIS screenshots and phishing indicators you've investigated, here are the **detailed findings** for your phishing email analysis:
-
 ### 1. **Sender Address**: `membershiphulu.com`
 
 * **Not Registered**: The domain `membershiphulu.com` is currently **unregistered**, meaning **anyone** (including attackers) can purchase and use it to impersonate Hulu.
